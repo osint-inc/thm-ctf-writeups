@@ -25,7 +25,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ---    | ---                                                                           | ---                 | ---                                      |
 | ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
 | ☑      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
-| ☐      | [Corridor](https://tryhackme.com/room/corridor)                               | Recon               | [on going](/c4ptur3-th3-fl4g)            |
+| ☐      | [Corridor](https://tryhackme.com/room/corridor)                               | Recon               | [on going](/corridor)                    |
+| ☐      | [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4gH2)               | Recon               | [on going](/c4ptur3-th3-fl4g)            |
 
 <!-- Rooms that where made private: -->
 <!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
